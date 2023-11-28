@@ -47,5 +47,13 @@ Também pode ser executado usando o [Visual Studio Code](https://code.visualstud
 - Swagger com JWT
 - Fluent Validation
 - EntityFramework Core
+- Serilog + Seq
 
-## Pull
+## Pull-request
+Caso queira contribuir entre sempre em contacto para alinharmos os próximos passos.
+
+## Estamos Online
+O projeto esta disponível online em [Energy Awareness](https://ea.mas.ao/docs) 
+
+## Sobre
+O projeto Energy Awareness foi desenvolvido por [Martinho Sebastião](https://www.linkedin.com/in/martinhosebastiao/)
