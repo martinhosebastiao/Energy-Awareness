@@ -49,6 +49,11 @@ Também pode ser executado usando o [Visual Studio Code](https://code.visualstud
 - EntityFramework Core
 - Serilog + Seq
 
+## Tecnologias usadas nos Testes
+- xUnit
+- FluentAssertions
+- NetArchTest
+
 ## Pull-request
 Caso queira contribuir entre sempre em contacto para alinharmos os próximos passos.
 
