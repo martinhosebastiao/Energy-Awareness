@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Abstractions\" />
+    <None Remove="Users\" />
+    <None Remove="Devices\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Abstractions\" />
+    <Folder Include="Users\" />
+    <Folder Include="Devices\" />
+  </ItemGroup>
+</Project>
